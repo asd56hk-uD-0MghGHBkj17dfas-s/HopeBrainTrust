@@ -249,7 +249,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"area",
+                 "type":"zone",
                  "visible":true,
                  "width":1087.68749095397,
                  "x":414.139490476589,
@@ -300,7 +300,7 @@
          "name":"fg",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0

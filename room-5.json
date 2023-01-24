@@ -95,7 +95,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"hope-brain-trust.json#eentry-room-5"
+                 "value":"hope-brain-trust.json#entry-room-5"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -256,7 +256,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"area",
+                 "type":"zone",
                  "visible":true,
                  "width":1087.69,
                  "x":414.988119563551,
